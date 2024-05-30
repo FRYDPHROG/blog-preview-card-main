@@ -51,5 +51,5 @@ I definitely still need to practice with polishing my CSS code
 
 ## Author
 
-- Frontend Mentor - [@FRYDPHROG](https://www.frontendmentor.io/profile/FROGPHROG)
+- Frontend Mentor - [@FRYDPHROG](https://www.frontendmentor.io/profile/FRYDPHROG)
 
